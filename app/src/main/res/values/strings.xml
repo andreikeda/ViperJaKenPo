@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ViperArch</string>
+
+    <string name="button_paper">Papel</string>
+    <string name="button_rock">Pedra</string>
+    <string name="button_scissor">Tesoura</string>
+
+    <string name="label_feedback_draw">EMPATE!</string>
+    <string name="label_feedback_lose">Que pena, você perdeu!</string>
+    <string name="label_feedback_win">Que ótimo, você ganhou!</string>
+</resources>
